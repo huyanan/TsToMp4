@@ -1,0 +1,22 @@
+{
+  "name": "tstomp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyanan/TsToMp4.git"
+  },
+  "author": "HuYanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyanan/TsToMp4/issues"
+  },
+  "homepage": "https://github.com/huyanan/TsToMp4#readme",
+  "dependencies": {
+    "ffmpeg-static": "^2.4.0"
+  }
+}
